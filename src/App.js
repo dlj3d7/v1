@@ -5,9 +5,9 @@ import HelloWorld from './components/HelloWorld/HelloWorld';
 const App = () => {
   return (
     <div className="App">
-      <HelloWorld/>
-      <HelloWorld/>
-      <HelloWorld/>
+      <HelloWorld name="Omaha"/>
+      <HelloWorld name="Nebraska"/>
+      <HelloWorld name="World"/>
     </div>);
 };
 
