@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.scss';
 import HelloWorld from './components/HelloWorld/HelloWorld';
+import HelloWorldList from './components/HelloWorldList/HelloWorldList';
 
 const App = () => {
   return (
     <div className="App">
-      <HelloWorld name="Omaha"/>
-      <HelloWorld name="Nebraska"/>
-      <HelloWorld name="World"/>
+      <HelloWorld name="America"/>
+      <HelloWorldList/>
     </div>);
 };
 
