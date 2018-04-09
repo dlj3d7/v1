@@ -9,8 +9,6 @@
 - Add SCSS without eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 - Add SCSS with eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 
-~~~~~~~~~~~~~~~~~~~~~~
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
