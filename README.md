@@ -4,7 +4,7 @@
 - Add SCSS: https://medium.com/@kswanie21/css-modules-sass-in-create-react-app-37c3152de9
 - Tutorial: https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
 
-##Other Resrources: 
+## Other Resrources: 
 - Add SCSS without eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 - Add SCSS with eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 
