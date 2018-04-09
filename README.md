@@ -1,3 +1,21 @@
+
+## Run
+- NPM Start
+## Personal Notes
+- Project Setup: http://blog.teamtreehouse.com/getting-started-create-react-app-tool
+- Add SCSS: https://medium.com/@kswanie21/css-modules-sass-in-create-react-app-37c3152de9
+- General Tutorial: https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
+- SPA w/React Router: https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+
+
+## Other Resrources
+- Add SCSS without eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+- Add SCSS with eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+- Add Redux: https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5
+- Building from scratch: https://codeburst.io/building-your-first-react-app-c1f6eb814205
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
