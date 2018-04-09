@@ -1,12 +1,12 @@
-Personal Notes: 
+## Personal Notes: 
 
-Project Setup: http://blog.teamtreehouse.com/getting-started-create-react-app-tool
-Add SCSS: https://medium.com/@kswanie21/css-modules-sass-in-create-react-app-37c3152de9
-Tutorial: https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
+- Project Setup: http://blog.teamtreehouse.com/getting-started-create-react-app-tool
+- Add SCSS: https://medium.com/@kswanie21/css-modules-sass-in-create-react-app-37c3152de9
+- Tutorial: https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc
 
-Other Resrources: 
-Add SCSS without eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
-Add SCSS with eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+##Other Resrources: 
+- Add SCSS without eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+- Add SCSS with eject: https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
