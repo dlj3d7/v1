@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+span {
+  font-size: 12px;
+}
+
+.palette {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas: 
+    "a b c d e f g";
+}
+.swatch {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas: 
+    "a";
+    &.pure {
+      border: 20px solid rgba(255,255,255,.2);
+    
+    }
+    span{
+      grid-area: a;
+      
+      align-self: center;
+      justify-self: center;
+    }
+}
+

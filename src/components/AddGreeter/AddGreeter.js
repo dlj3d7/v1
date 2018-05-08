@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './AddGreeter.scss';
-import HelloWorld from '../HelloWorld/HelloWorld';
 
 class AddGreeter extends Component {
 	constructor(props) {
