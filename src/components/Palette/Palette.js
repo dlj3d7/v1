@@ -9,7 +9,8 @@ class Palette extends Component {
 		 
 		return (
 			
-			<div className="palette">
+			<div className="palette" alt={this.props.alt}>
+			
 				<div className="swatch plus3" style=
 					{
 						{

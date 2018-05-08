@@ -5,7 +5,7 @@ import Palette from '../Palette/Palette';
 class PaletteRamp extends Component {
 	constructor (props) {
 		super(props);
-		this.state = { hue: ['0', '270', '135'] };
+		// this.state = { hue: ['0', '270', '135'] };
     };
 	
 	renderHue() {
