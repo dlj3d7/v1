@@ -161,15 +161,18 @@ $randomNumber: random(5);
   padding: 10px 0;
   margin:0 auto;
   background-image: linear-gradient(to right, #fff 50%, #000 50%);
+  -webkit-transition: all 0.125s ease-out;
+  -moz-transition: all 0.125s ease-out;
+  transition: all 0.125s ease-out;
   background-size: 200% 100%;
   background-repeat: no-repeat;
   background-position: bottom left;
 
   &:hover {
       color: white;
-      -webkit-transition: all 0.25s ease-in;
-      -moz-transition: all 0.25s ease-in;
-      transition: all 0.25s ease-in;
+      -webkit-transition: all 0.125s ease-in;
+      -moz-transition: all 0.125s ease-in;
+      transition: all 0.125s ease-in;
       background-position: bottom right;
       color: #fff;
     

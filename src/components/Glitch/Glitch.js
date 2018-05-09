@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import './Glitch.scss';
-
 class Glitch extends Component {
 	constructor (props) {
 		super(props);
 	 };
 	 
-
 	 render () {
 
 		return (
@@ -15,14 +13,9 @@ class Glitch extends Component {
 				{this.props.text.split('').map((letter, i) => {
 					return <span key={i} className={i}>{letter}</span>;
 				})}
-			</span>);
-		};
-		
-		
-					
-			
-
-	
+			</span>
+		);
+	};	
 };
 
 export default Glitch;
